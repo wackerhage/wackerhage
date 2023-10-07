@@ -8,4 +8,4 @@ Hell0 W0rld
   <a href="https://www.linkedin.com/in/dominique-wackerhage-8a925b189/"> Linkedin </a>
 </div>
 
-<img src="/assets/img/arquivo.gif">
+<img src="/giphy.gif">
