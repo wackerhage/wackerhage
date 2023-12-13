@@ -1,8 +1,8 @@
 Hell0 W0rld
 
-- 🌱 I’m currently studying Java
+- 🌱 I’m currently studying Java/Python/Django
 - 😄 Pronouns: he/his
-- ⚡ I'm Brazilian and looking forward to become a Java Developer!
+- ⚡ I'm Brazilian and looking forward to become a Developer!
 
 <div>
   <a href="https://www.linkedin.com/in/dominique-wackerhage-8a925b189/"> Linkedin </a>
