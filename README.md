@@ -1,6 +1,6 @@
 Hell0 W0rld
 
-- 🌱 I’m currently studying Java/Python/Django
+- 🌱 I’m currently studying Python/SQL
 - 😄 Pronouns: he/his
 - ⚡ I'm Brazilian and looking forward to become a Developer!
 
