@@ -5,7 +5,6 @@ Hell0 W0rld
 - ⚡ I'm Brazilian and looking forward to become a Developer!
 
 <div>
-  <a> | </a>
   <a href="mailto:wackerhaged@yahoo.com?subject=subject text"> E-mail </a>
 </div>
 
