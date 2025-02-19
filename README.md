@@ -7,5 +7,3 @@ Hell0 W0rld
 <div>
   <a href="mailto:wackerhaged@yahoo.com?subject=subject text"> E-mail </a>
 </div>
-
-<img src="/giphy.gif">
